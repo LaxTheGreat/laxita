@@ -2,10 +2,11 @@ body {
     background-color: blue;
 }
 h1 {
-    color: black;
-    }
+     color: red;
+  
+	font-size:60px;
+}
 #fon{
-position:relative;
-top:-1480;
-left:200;
+margin-left:350px;
+margin-top:200px;
 }
